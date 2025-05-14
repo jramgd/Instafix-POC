@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="gcm_defaultSenderId" translatable="false">426519657969</string>
-    <string name="google_api_key" translatable="false">AIzaSyDs2kg4k_ZVIGmK5p3C50ylZnMdvWOXKeE</string>
-    <string name="google_app_id" translatable="false">1:426519657969:android:9c853293a0751e0bd3d850</string>
-    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDs2kg4k_ZVIGmK5p3C50ylZnMdvWOXKeE</string>
-    <string name="google_storage_bucket" translatable="false">instafix-c859e.firebasestorage.app</string>
-    <string name="project_id" translatable="false">instafix-c859e</string>
-</resources>
