@@ -1,0 +1,69 @@
+com.instafix.app-foundation-layout-release-0 /Users/amgedjr/.gradle/caches/8.12/transforms/028e3b6c2eacd4f123d1330cc6995844/transformed/foundation-layout-release/res
+com.instafix.app-animation-core-release-1 /Users/amgedjr/.gradle/caches/8.12/transforms/03ab60167b4e45eb39649c4d4f62d4d6/transformed/animation-core-release/res
+com.instafix.app-drawerlayout-1.1.1-2 /Users/amgedjr/.gradle/caches/8.12/transforms/04d91e8c48496a739839ca5491850bfb/transformed/drawerlayout-1.1.1/res
+com.instafix.app-ui-util-release-3 /Users/amgedjr/.gradle/caches/8.12/transforms/0c2f8d1239b18f9f4e1ce02463c19fe0/transformed/ui-util-release/res
+com.instafix.app-fragment-1.3.6-4 /Users/amgedjr/.gradle/caches/8.12/transforms/0e5f48216301b1de28faac2dd5268af1/transformed/fragment-1.3.6/res
+com.instafix.app-appcompat-1.6.1-5 /Users/amgedjr/.gradle/caches/8.12/transforms/1337575c857368ce334c9a6cb618c057/transformed/appcompat-1.6.1/res
+com.instafix.app-play-services-basement-18.1.0-6 /Users/amgedjr/.gradle/caches/8.12/transforms/139b0e0853c89fcd64d4cb79f75872a5/transformed/play-services-basement-18.1.0/res
+com.instafix.app-viewpager2-1.0.0-7 /Users/amgedjr/.gradle/caches/8.12/transforms/14d2df4d0251054107a050b3440429ef/transformed/viewpager2-1.0.0/res
+com.instafix.app-lifecycle-process-2.6.2-8 /Users/amgedjr/.gradle/caches/8.12/transforms/16a98e69db95fca17ffb6c698a52d972/transformed/lifecycle-process-2.6.2/res
+com.instafix.app-constraintlayout-2.0.1-9 /Users/amgedjr/.gradle/caches/8.12/transforms/1aee161ab093d5ab8a3d991594b7b15d/transformed/constraintlayout-2.0.1/res
+com.instafix.app-annotation-experimental-1.3.0-10 /Users/amgedjr/.gradle/caches/8.12/transforms/1daf9281ea2a11c8c8bc253b28c407e2/transformed/annotation-experimental-1.3.0/res
+com.instafix.app-lifecycle-runtime-ktx-2.6.2-11 /Users/amgedjr/.gradle/caches/8.12/transforms/2165cc3c3748c4a8f68fdf32375eb56a/transformed/lifecycle-runtime-ktx-2.6.2/res
+com.instafix.app-play-services-base-18.1.0-12 /Users/amgedjr/.gradle/caches/8.12/transforms/21a4e2b3a1c28343e2629d505db1d4bf/transformed/play-services-base-18.1.0/res
+com.instafix.app-ui-tooling-preview-release-13 /Users/amgedjr/.gradle/caches/8.12/transforms/24538d94537dc99eb30411d76b6e0eee/transformed/ui-tooling-preview-release/res
+com.instafix.app-lifecycle-viewmodel-compose-2.6.2-14 /Users/amgedjr/.gradle/caches/8.12/transforms/26f13b7fb1698b2141348d1b2b5954ce/transformed/lifecycle-viewmodel-compose-2.6.2/res
+com.instafix.app-emoji2-1.4.0-15 /Users/amgedjr/.gradle/caches/8.12/transforms/281f3ad8523d9ecfc78a5f5acbb53edb/transformed/emoji2-1.4.0/res
+com.instafix.app-firebase-common-20.4.2-16 /Users/amgedjr/.gradle/caches/8.12/transforms/2e0d5ae2685822225c015697501a4736/transformed/firebase-common-20.4.2/res
+com.instafix.app-core-ktx-1.12.0-17 /Users/amgedjr/.gradle/caches/8.12/transforms/31955af29522c73f4996dbcb60a40422/transformed/core-ktx-1.12.0/res
+com.instafix.app-savedstate-1.2.1-18 /Users/amgedjr/.gradle/caches/8.12/transforms/31e12702ce4ab2995f19dfcf73b96b90/transformed/savedstate-1.2.1/res
+com.instafix.app-lifecycle-viewmodel-savedstate-2.6.2-19 /Users/amgedjr/.gradle/caches/8.12/transforms/35a9478ddd99e96fa124b0f104969bba/transformed/lifecycle-viewmodel-savedstate-2.6.2/res
+com.instafix.app-recyclerview-1.1.0-20 /Users/amgedjr/.gradle/caches/8.12/transforms/37cc37ddabf317fa4de0901f51cd9898/transformed/recyclerview-1.1.0/res
+com.instafix.app-runtime-release-21 /Users/amgedjr/.gradle/caches/8.12/transforms/3847cd98985d13297e0b31d9417ac076/transformed/runtime-release/res
+com.instafix.app-ui-geometry-release-22 /Users/amgedjr/.gradle/caches/8.12/transforms/3b93d77b188f1b62e3bd09306d653bea/transformed/ui-geometry-release/res
+com.instafix.app-emoji2-views-helper-1.4.0-23 /Users/amgedjr/.gradle/caches/8.12/transforms/3e5619a6694e630d86d3df42333b6004/transformed/emoji2-views-helper-1.4.0/res
+com.instafix.app-runtime-saveable-release-24 /Users/amgedjr/.gradle/caches/8.12/transforms/41ae655077a1464b90241f61b2f6d0c2/transformed/runtime-saveable-release/res
+com.instafix.app-core-runtime-2.2.0-25 /Users/amgedjr/.gradle/caches/8.12/transforms/430c80f497580503b27beb4418d131ed/transformed/core-runtime-2.2.0/res
+com.instafix.app-savedstate-ktx-1.2.1-26 /Users/amgedjr/.gradle/caches/8.12/transforms/4338e704fe411f8d2c52f0cc8ff8ad4b/transformed/savedstate-ktx-1.2.1/res
+com.instafix.app-lifecycle-viewmodel-ktx-2.6.2-27 /Users/amgedjr/.gradle/caches/8.12/transforms/46757ad3b75f1a5bb5c700e938bbd4e4/transformed/lifecycle-viewmodel-ktx-2.6.2/res
+com.instafix.app-coil-base-2.5.0-28 /Users/amgedjr/.gradle/caches/8.12/transforms/47ec52d97fea718f547180ea1c2a936c/transformed/coil-base-2.5.0/res
+com.instafix.app-transition-1.2.0-29 /Users/amgedjr/.gradle/caches/8.12/transforms/4a86205d2ad45d11ffc578c1140cce78/transformed/transition-1.2.0/res
+com.instafix.app-lifecycle-livedata-core-2.6.2-30 /Users/amgedjr/.gradle/caches/8.12/transforms/4adb18233a4e2f56f91dc3d36b53e4f0/transformed/lifecycle-livedata-core-2.6.2/res
+com.instafix.app-profileinstaller-1.3.1-31 /Users/amgedjr/.gradle/caches/8.12/transforms/52b713a2329b691e0126242cf121e143/transformed/profileinstaller-1.3.1/res
+com.instafix.app-appcompat-resources-1.6.1-32 /Users/amgedjr/.gradle/caches/8.12/transforms/52be5643bc53206b953ef96447944c2e/transformed/appcompat-resources-1.6.1/res
+com.instafix.app-browser-1.4.0-33 /Users/amgedjr/.gradle/caches/8.12/transforms/52ea094ac90a364102fbc6ab1e728b2a/transformed/browser-1.4.0/res
+com.instafix.app-foundation-release-34 /Users/amgedjr/.gradle/caches/8.12/transforms/580094b99f9ea835737cf97e865c76ad/transformed/foundation-release/res
+com.instafix.app-lifecycle-livedata-2.6.2-35 /Users/amgedjr/.gradle/caches/8.12/transforms/5d11538359957fb9ff02d8133acab519/transformed/lifecycle-livedata-2.6.2/res
+com.instafix.app-navigation-common-2.7.6-36 /Users/amgedjr/.gradle/caches/8.12/transforms/68d2c2a592ccd0dc4382227c59706d32/transformed/navigation-common-2.7.6/res
+com.instafix.app-coordinatorlayout-1.1.0-37 /Users/amgedjr/.gradle/caches/8.12/transforms/7234c9dbf0638201f216ced43eee2bd8/transformed/coordinatorlayout-1.1.0/res
+com.instafix.app-ui-graphics-release-38 /Users/amgedjr/.gradle/caches/8.12/transforms/729e01b9eee8457694b362b143af0be5/transformed/ui-graphics-release/res
+com.instafix.app-lifecycle-viewmodel-2.6.2-39 /Users/amgedjr/.gradle/caches/8.12/transforms/7c2d77092029a6d01584ac1a3261bce9/transformed/lifecycle-viewmodel-2.6.2/res
+com.instafix.app-ui-unit-release-40 /Users/amgedjr/.gradle/caches/8.12/transforms/802ecc086cded887ec1a528b5752e44f/transformed/ui-unit-release/res
+com.instafix.app-lifecycle-runtime-2.6.2-41 /Users/amgedjr/.gradle/caches/8.12/transforms/8238e9d4654053576739c2f70443fe2c/transformed/lifecycle-runtime-2.6.2/res
+com.instafix.app-activity-ktx-1.8.2-42 /Users/amgedjr/.gradle/caches/8.12/transforms/8610c58a683bd996a1eb40c6414c73e7/transformed/activity-ktx-1.8.2/res
+com.instafix.app-ui-text-release-43 /Users/amgedjr/.gradle/caches/8.12/transforms/8637d54c7b17c87efc032973e9135333/transformed/ui-text-release/res
+com.instafix.app-activity-compose-1.8.2-44 /Users/amgedjr/.gradle/caches/8.12/transforms/8fc365d990444ebc0a4d26410fcab7b0/transformed/activity-compose-1.8.2/res
+com.instafix.app-material-ripple-release-45 /Users/amgedjr/.gradle/caches/8.12/transforms/98604679d5000644fc4e19cdd4bb6801/transformed/material-ripple-release/res
+com.instafix.app-cardview-1.0.0-46 /Users/amgedjr/.gradle/caches/8.12/transforms/a1356f05996c466e2efad385444d1f9e/transformed/cardview-1.0.0/res
+com.instafix.app-activity-1.8.2-47 /Users/amgedjr/.gradle/caches/8.12/transforms/a2697cfd7e627f1caba4db4be9e6a54f/transformed/activity-1.8.2/res
+com.instafix.app-navigation-compose-2.7.6-48 /Users/amgedjr/.gradle/caches/8.12/transforms/a9ebdcb4eed2d6311e124f43e7a4dd41/transformed/navigation-compose-2.7.6/res
+com.instafix.app-material-1.11.0-49 /Users/amgedjr/.gradle/caches/8.12/transforms/ab8053c51a1eebbd53f03e4940c1d7ff/transformed/material-1.11.0/res
+com.instafix.app-startup-runtime-1.1.1-50 /Users/amgedjr/.gradle/caches/8.12/transforms/b24933e477f4f4bf08ba25ce198d7027/transformed/startup-runtime-1.1.1/res
+com.instafix.app-core-1.12.0-51 /Users/amgedjr/.gradle/caches/8.12/transforms/b5e1fc6718bcc013008c9a6e480cad9b/transformed/core-1.12.0/res
+com.instafix.app-customview-poolingcontainer-1.0.0-52 /Users/amgedjr/.gradle/caches/8.12/transforms/bc81b2dc7268b24e043653606f0a9fce/transformed/customview-poolingcontainer-1.0.0/res
+com.instafix.app-navigation-runtime-ktx-2.7.6-53 /Users/amgedjr/.gradle/caches/8.12/transforms/c5d9be38bf072cfc55fbbf82f27cbc1b/transformed/navigation-runtime-ktx-2.7.6/res
+com.instafix.app-material-icons-core-release-54 /Users/amgedjr/.gradle/caches/8.12/transforms/d34ab45aa1794c80afe165927fa420b2/transformed/material-icons-core-release/res
+com.instafix.app-navigation-common-ktx-2.7.6-55 /Users/amgedjr/.gradle/caches/8.12/transforms/dcb0ff62b67c0a0efe0da5a30ac10820/transformed/navigation-common-ktx-2.7.6/res
+com.instafix.app-material3-1.1.2-56 /Users/amgedjr/.gradle/caches/8.12/transforms/e0a23560db4b3eafcd30e88dd2c3130a/transformed/material3-1.1.2/res
+com.instafix.app-navigation-runtime-2.7.6-57 /Users/amgedjr/.gradle/caches/8.12/transforms/ebed65037e87d142c6ebe290d490038a/transformed/navigation-runtime-2.7.6/res
+com.instafix.app-material-release-58 /Users/amgedjr/.gradle/caches/8.12/transforms/ec2dc7f8496a1c668bba2ee876dfb139/transformed/material-release/res
+com.instafix.app-ui-release-59 /Users/amgedjr/.gradle/caches/8.12/transforms/ee6403f85a6530e20333eef7bd53dc9a/transformed/ui-release/res
+com.instafix.app-animation-release-60 /Users/amgedjr/.gradle/caches/8.12/transforms/f2c50b18ba4925d444837a4195ce0718/transformed/animation-release/res
+com.instafix.app-pngs-61 /Users/amgedjr/This PC/InstaFix/app/build/generated/res/pngs/debug
+com.instafix.app-res-62 /Users/amgedjr/This PC/InstaFix/app/build/generated/res/processDebugGoogleServices
+com.instafix.app-resValues-63 /Users/amgedjr/This PC/InstaFix/app/build/generated/res/resValues/debug
+com.instafix.app-packageDebugResources-64 /Users/amgedjr/This PC/InstaFix/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.instafix.app-packageDebugResources-65 /Users/amgedjr/This PC/InstaFix/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.instafix.app-merged_res-66 /Users/amgedjr/This PC/InstaFix/app/build/intermediates/merged_res/debug
+com.instafix.app-debug-67 /Users/amgedjr/This PC/InstaFix/app/src/debug/res
+com.instafix.app-main-68 /Users/amgedjr/This PC/InstaFix/app/src/main/res
