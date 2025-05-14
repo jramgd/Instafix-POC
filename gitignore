@@ -1,0 +1,4 @@
+/build/
+/.gradle/
+/.idea/  # Optional, but IDE stuff shouldn't be versioned
+*.iml
